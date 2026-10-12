@@ -1,4 +1,4 @@
-from app.models import Student
+from lab.models import Student
 
 def test_student_average():
     s = Student(1, "Test", [10, 20, 30])

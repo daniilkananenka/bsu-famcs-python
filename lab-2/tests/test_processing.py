@@ -1,6 +1,6 @@
 import pytest
-from app import processing as proc
-from app.errors import ValidationError, StudentNotFoundError
+from lab import processing as proc
+from lab.errors import ValidationError, StudentNotFoundError
 
 def test_create_student_valid():
     students = []

@@ -1,6 +1,6 @@
 import pytest
-from app.main import main
-from app import processing
+from lab.main import main
+from lab import processing
 
 def test_cli_add_student_scenario(monkeypatch, capsys):
     inputs = iter(['4', '10', 'John Doe', '50 60', '0'])

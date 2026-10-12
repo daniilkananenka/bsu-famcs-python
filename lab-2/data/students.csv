@@ -1,4 +1,25 @@
-id,name,grade1,grade2,grade3
-1,Ivanov Ivan,78,85,90
-2,Ivanov Petr,65,70,
-3,Ivanova Anna,92,88,95
+id,name,grade1,grade2
+1,Bobrovich Daniil,100,100
+2,Dudek Roman,0,0,
+3,Ilyinchik Daniil,90,100
+4,Karnienkova Daria,100,100
+5,Komarova Ekaterina,0,0
+6,Kananenka Daniil,0,0
+7,Lukashov Egor,0,0
+8,Lashkevich Oleg,100,100
+9,Minkousky Vitaly,0,0
+10,Reynvald Oleg,90,0
+11,Sychou Alexey,0,0
+12,Takun Alexey,0,0
+13,Baran Alexey,100,100
+14,Balshakou Artem,0,0
+15,Zorka Matvey,0,0
+16,Kabanova Alesia,0,0
+17,Krauchenka Elena,100,100
+18,Kutsko Boris,0,0
+19,Paluhovich Nikolay,0,0
+20,Plaksenak Roman,0,0
+21,Svintilau Andrey,0,0
+22,Tsyapkou Artem,0,0
+23,Shuman Vladislav,0,0
+24,Shutro Nikita,100,100

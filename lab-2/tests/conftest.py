@@ -1,5 +1,5 @@
 import pytest
-from app.models import Student
+from lab.models import Student
 
 @pytest.fixture
 def sample_students():

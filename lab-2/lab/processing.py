@@ -1,6 +1,6 @@
 from typing import Optional
-from app.models import Student
-from app.errors import ValidationError, StudentNotFoundError
+from lab.models import Student
+from lab.errors import ValidationError, StudentNotFoundError
 
 def validate_student_data(student_id: int, name: str, grades: list[int]) -> None:
     if student_id < 0:

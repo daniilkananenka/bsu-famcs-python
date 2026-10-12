@@ -1,7 +1,7 @@
 import pytest
-from app import io_utils
-from app.models import Student
-from app.errors import FileError
+from lab import io_utils
+from lab.models import Student
+from lab.errors import FileError
 
 def test_save_and_load_roundtrip(tmp_path):
     file_path = tmp_path / "test_students.csv"

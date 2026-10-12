@@ -1,8 +1,8 @@
 import sys
-from app.models import Student
-from app import processing as proc
-from app import io_utils as io
-from app.errors import AppError
+from lab.models import Student
+from lab import processing as proc
+from lab import io_utils as io
+from lab.errors import AppError
 
 def print_menu():
     print("\n--- Menu ---")

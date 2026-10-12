@@ -1,7 +1,7 @@
 import csv
 import os
-from app.models import Student
-from app.errors import FileError
+from lab.models import Student
+from lab.errors import FileError
 
 def load_from_csv(filename: str) -> list[Student]:
     if not os.path.exists(filename):
